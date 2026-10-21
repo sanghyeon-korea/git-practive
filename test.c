@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("Hello Git\n");
+    printf("Hello from my branch\n");
     return 0;
 }
